@@ -35,13 +35,13 @@
 
 ## Getting Started
 1. **Clone the Repository**
-   - `git clone [repository-url]`
+   - ```git clone https://github.com/Blaqadonis/query_pdfs.git```
 2. **Install Dependencies**
-   - `pip install -r requirements.txt`
+   - ```pip install -r requirements.txt```
 3. **Set Up Environment Variables**
-   - Create a `.env` file with your `OPENAI_API_KEY` and `HUGGINGFACEHUB_API_TOKEN`.
+   - Create a ```.env``` file with your `OPENAI_API_KEY` and `HUGGINGFACEHUB_API_TOKEN`.
 4. **Run the Application**
-   - Navigate to the `src` directory and run `python mine.py`.
+   - Navigate to the `src` directory and run ```python mine.py```.
 
 ## Usage
 1. **Start the Application**
@@ -52,13 +52,11 @@
    - Input your query related to the document's content.
 4. **Receive Answers**
    - The application provides answers based on the uploaded document's content.
+  
+![Final Product Screenshot](https://github.com/Blaqadonis/query_pdfs/blob/main/imgs/final_product_2.png)
+
+
 
 ## Contributing
 Contributions, suggestions, and issue reports are highly welcome. Please feel free to fork the repository, make changes, and submit pull requests.
-
-## License
-This project is licensed under [specify license], making it open for modification and distribution under the same license.
-
-## Acknowledgments
-Special thanks to the OpenAI team for providing the embedding models and to the Gradio team for their intuitive interface framework.
 
