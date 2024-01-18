@@ -1,12 +1,15 @@
 # 🅱🅻🅰🆀's Reader Bot 📖📚
-![image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/f8375275-57f9-4e5b-8060-152490b2af58) ![image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/4d2374f8-8064-4677-9eb1-465b17bfc07d)
-  ![image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/e8dc7746-e4f9-4a2d-a62e-cd8dd314ff1d)
 
+![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/f8375275-57f9-4e5b-8060-152490b2af58) 
+![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/4d2374f8-8064-4677-9eb1-465b17bfc07d)
+![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/e8dc7746-e4f9-4a2d-a62e-cd8dd314ff1d)
 
 ## Introduction
 🅱🅻🅰🆀's Reader Bot is an innovative web application designed to simplify the process of extracting and querying information from PDF documents. Utilizing OpenAI embeddings, it offers precise, context-aware responses to user queries.
 
 ## Features
+
+![Project Architecture](https://github.com/Blaqadonis/query_pdfs/blob/main/imgs/project_architecture.jpg)
 
 ### 1. **PDF Text Extraction**
    - **Function:** `get_pdf_text`
@@ -38,13 +41,13 @@
 
 ## Getting Started
 1. **Clone the Repository**
-   - ```git clone https://github.com/Blaqadonis/query_pdfs.git```
+   - `git clone https://github.com/Blaqadonis/query_pdfs.git`
 2. **Install Dependencies**
-   - ```pip install -r requirements.txt```
+   - `pip install -r requirements.txt`
 3. **Set Up Environment Variables**
-   - Create a ```.env``` file with your `OPENAI_API_KEY` and `HUGGINGFACEHUB_API_TOKEN`.
+   - Create a `.env` file with your `OPENAI_API_KEY` and `HUGGINGFACEHUB_API_TOKEN`.
 4. **Run the Application**
-   - Navigate to the `src` directory and run ```python mine.py```.
+   - Navigate to the `src` directory and run `python mine.py`.
 
 ## Usage
 1. **Start the Application**
@@ -58,8 +61,5 @@
   
 ![Final Product Screenshot](https://github.com/Blaqadonis/query_pdfs/blob/main/imgs/final_product_2.png)
 
-
-
 ## Contributing
 Contributions, suggestions, and issue reports are highly welcome. Please feel free to fork the repository, make changes, and submit pull requests.
-
