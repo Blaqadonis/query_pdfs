@@ -2,7 +2,8 @@
 
 ![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/f8375275-57f9-4e5b-8060-152490b2af58) 
 ![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/4d2374f8-8064-4677-9eb1-465b17bfc07d)
-![Image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/e8dc7746-e4f9-4a2d-a62e-cd8dd314ff1d)
+![image](https://github.com/Blaqadonis/query_pdfs/assets/100685852/d81c3ba2-057c-4f04-bf92-109eb33eda99)
+
 
 ## Introduction
 🅱🅻🅰🆀's Reader Bot is an innovative web application designed to simplify the process of extracting and querying information from PDF documents. Utilizing OpenAI embeddings, it offers precise, context-aware responses to user queries.
